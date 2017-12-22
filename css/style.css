@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6
 }
 
 div.translucent {
-    
+    /*background: url(../img/1-grayscale01.png) !important;*/
 }
 
 .nav > li > a {
@@ -64,7 +64,7 @@ div.translucent {
 	font-family: 'Lato', sans-serif;
 }
 .navbar-default .navbar-brand {
-    color: #229957;
+    color: #fff;
 	font-size: 34px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -125,7 +125,7 @@ div.translucent {
 {
 	font-size: 123px;
 	font-weight: 700;
-	color: #fff;
+	color: #239957;
 	line-height: 88px;
 	letter-spacing: 4px;
 	opacity: 1;
