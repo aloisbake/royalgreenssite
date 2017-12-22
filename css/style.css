@@ -46,11 +46,12 @@ h1, h2, h3, h4, h5, h6
 }
 .bg-color
 {
+    /*background: url(../img/1-grayscale01.png) !important;*/    
 	background-color: RGBA(0, 0, 0, 0.41);
 }
 
 div.translucent {
-     background: url(../img/1-grayscale01.png) !important;    
+    
 }
 
 .nav > li > a {
