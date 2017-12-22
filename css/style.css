@@ -50,9 +50,7 @@ h1, h2, h3, h4, h5, h6
 }
 
 div.translucent {
-     background: url(../img/1-grayscale01.png);
-    /*opacity: 0.3;
-    filter: alpha(opacity=30); /* For IE8 and earlier */
+     background: url(../img/1-grayscale01.png) !important;    
 }
 
 .nav > li > a {
